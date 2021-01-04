@@ -111,6 +111,10 @@ ul li img {
   margin-top: 1rem;
 }
 
+#pagination{
+  color:#fff;
+}
+
 @media (min-width: 700px) {
   header {
     flex-direction: row;
